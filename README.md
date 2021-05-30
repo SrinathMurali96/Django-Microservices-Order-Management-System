@@ -7,9 +7,9 @@ This is example web application based on microservices architecture. It has 3 de
 3. Email Sending
 
 Technology Stack:
-01. Python 
-02. Django/Django REST Framework
-03. Oracle
+1. Python 
+2. Django/Django REST Framework
+3. Oracle
 
 
 Python used as the backend development language. 
