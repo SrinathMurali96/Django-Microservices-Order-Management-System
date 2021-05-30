@@ -1,0 +1,5 @@
+Django
+djangorestframework
+djongo
+psycopg2
+requests
